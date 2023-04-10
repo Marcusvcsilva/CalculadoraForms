@@ -1,0 +1,11 @@
+D:\revUC12\Calculadora\bin\Debug\Calculadora.exe.config
+D:\revUC12\Calculadora\bin\Debug\Calculadora.exe
+D:\revUC12\Calculadora\bin\Debug\Calculadora.pdb
+D:\revUC12\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\revUC12\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+D:\revUC12\Calculadora\obj\Debug\Calculadora.Form_Calculadora.resources
+D:\revUC12\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\revUC12\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\revUC12\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\revUC12\Calculadora\obj\Debug\Calculadora.exe
+D:\revUC12\Calculadora\obj\Debug\Calculadora.pdb
